@@ -436,9 +436,9 @@ Exercises
 
 .. exercise:: compute numerical integrals
 The primary objective of this exercise is to compute numerical integrals using multithreading and multiprocessing. The serial version of the numerical integration of is implemented as follows. 
-.. figure:: img/1d_Integration.png
+   .. figure:: img/1d_Integration.png
 
- .. literalinclude:: exercise/1d_Integration_serial.py
+   .. literalinclude:: exercise/1d_Integration_serial.py
 
 
 .. demo:: Word-autocorrelation example project
