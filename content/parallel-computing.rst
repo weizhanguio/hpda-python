@@ -435,13 +435,8 @@ Exercises
 ---------
 
 .. exercise:: compute numerical integrals
-The primary objective of this exercise is to compute numerical integrals using multithreading and multiprocessing. The serial version of the numerical integration of \( \int_a^b f(x) \, dx \)  is implemented as follows. 
+The primary objective of this exercise is to compute numerical integrals using multithreading and multiprocessing. The serial version of the numerical integration of \( \int_a^b f(x) \, dx \) is implemented as follows.
 
-   .. math::
-
-       \int_a^b f(x) \, dx
-
-   .. figure:: img/1d_Integration.png
 
    .. literalinclude:: exercise/1d_Integration_serial.py
 
