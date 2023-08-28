@@ -437,10 +437,6 @@ Exercises
 .. exercise:: compute numerical integrals
 The primary objective of this exercise is to compute integrals :math:`\int_0^1 x^{3/2} \, dx` numerically. 
 
-   .. math::
-      \int_0^1 x^{3/2} \, dx
-
-
    .. literalinclude:: exercise/1d_Integration_serial.py
 
 
