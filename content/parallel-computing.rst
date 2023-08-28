@@ -439,7 +439,7 @@ The primary objective of this exercise is to compute numerical integrals using m
 
    .. math::
 
-   \int_a^b f(x) \, dx
+       \int_a^b f(x) \, dx
 
    .. figure:: img/1d_Integration.png
 
