@@ -435,7 +435,8 @@ Exercises
 ---------
 
 .. exercise:: compute numerical integrals
-The primary objective of this exercise is to compute numerical integrals using multithreading and multiprocessing. The serial version of the numerical integration is focused on evaluating 
+The primary objective of this exercise is to compute numerical integrals using multithreading and multiprocessing. The serial version of the numerical integration is focused on evaluating
+
    .. math::
       \int_0^1 x^{3/2} \, dx
 
