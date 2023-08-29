@@ -444,9 +444,9 @@ Exercises
 
    .. solution:: Full source code
 
-      .. literalinclude:: exercise/1d_Integration_multiprocessing.py
-
       .. literalinclude:: exercise/1d_Integration_multithreading.py
+
+      .. literalinclude:: exercise/1d_Integration_multiprocessing.py
 
 .. exercise:: Word-autocorrelation example project
 
