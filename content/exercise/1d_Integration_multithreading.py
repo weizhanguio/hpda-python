@@ -34,3 +34,4 @@ if __name__ == "__main__":
     print("Time spent: %.2f sec" % (endtime-starttime))
 
 
+# 50.17 sec 
