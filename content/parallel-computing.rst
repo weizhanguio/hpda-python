@@ -440,7 +440,7 @@ The primary objective of this exercise is to compute integrals :math:`\int_0^1 x
    .. literalinclude:: exercise/1d_Integration_serial.py
 
 
-.. demo:: Word-autocorrelation example project
+.. exercise:: Word-autocorrelation example project
 
    Inspired by a study of `dynamic correlations of words in written text 
    <https://www.scirp.org/journal/paperinformation.aspx?paperid=92643>`__,
