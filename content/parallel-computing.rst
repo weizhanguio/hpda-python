@@ -438,7 +438,10 @@ Exercises
 The primary objective of this exercise is to compute integrals :math:`\int_0^1 x^{3/2} \, dx` numerically. One approach to integration is by establishing a grid along the x-axis. Specifically, the integration range is divided into 'n' segments or bins. Below is a basic serial code.
 
    .. literalinclude:: exercise/1d_Integration_serial.py
-
+Think about how to parallelize the code using multithreading and multiprocessing
+   .. solution:: Full source code
+      .. literalinclude:: exercise/1d_Integration_multiprocessing.py
+      .. literalinclude:: exercise/1d_Integration_multithreading.py
 
 .. exercise:: Word-autocorrelation example project
 
