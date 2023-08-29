@@ -33,3 +33,4 @@ if __name__ == "__main__":
     print("Integral value is %e, Error is %e" % (integral, abs(integral - 2/5)))  # The correct integral value is 2/5
     print("Time spent: %.2f sec" % (endtime-starttime))
 
+# 50.45 sec
