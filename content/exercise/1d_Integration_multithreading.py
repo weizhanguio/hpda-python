@@ -21,7 +21,7 @@ def integration_concurrent(threadindex, n=n, numthreads=numthreads):
     return h * mysum
 
 if __name__ == "__main__":
-    print(f"Using {nprocs} threads")
+    print(f"Using {numthreads} threads")
     starttime = time.time()
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=numthreads) as executor:
