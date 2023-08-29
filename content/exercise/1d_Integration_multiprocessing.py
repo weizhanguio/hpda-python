@@ -21,7 +21,7 @@ def integration_process(pool_index, n, numprocesses):
     return h * mysum
 
 if __name__ == '__main__':
-    print(f"Using {nprocs} CPU cores")
+    print(f"Using {nprocs} processes")
 
     starttime = time.time()
 
